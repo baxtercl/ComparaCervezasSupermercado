@@ -1,0 +1,1110 @@
+{
+    "cervezas": [
+        {
+            "name": "Stella Artois",
+            "description": "Pack Cerveza Premium Lager",
+            "regularPrice": "8290",
+            "currentPrice": " Precio x L : 23686",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/260878a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Budweiser",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "7390",
+            "currentPrice": " Precio x Un : 411",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/852924a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Royal Guard",
+            "description": "Pack 18 Cervezas Latas 350 cc c/u",
+            "regularPrice": "7790",
+            "currentPrice": " Precio x Un : 433",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1060507a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Sol",
+            "description": "Pack Cervezas",
+            "regularPrice": "3990",
+            "currentPrice": " Precio x Un : 665",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/534425a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Stella Artois",
+            "description": "Pack Cerveza Premium Lager",
+            "regularPrice": "3790",
+            "currentPrice": " Precio x L : 11485",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/307501a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cusqueña",
+            "description": "Pack Cerveza Golden Lager",
+            "regularPrice": "4150",
+            "currentPrice": " Precio x Un : 692",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/626768a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Heineken",
+            "description": "Pack Cervezas Lager",
+            "regularPrice": "8790",
+            "currentPrice": " Precio x Un : 733",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/723081a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Corona",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "4190",
+            "currentPrice": " Precio x Un : 698",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/993393a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Royal Guard",
+            "description": "Pack Cerveza Lager (6 Botellas 355cc c/u)",
+            "regularPrice": "5290",
+            "currentPrice": " Precio x L : 8817",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/304399a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cristal",
+            "description": "Pack Cerveza (24 Latas de 350 cc c/u)",
+            "regularPrice": "7790",
+            "currentPrice": " Precio x Un : 325",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/913558a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Escudo",
+            "description": "Pack Cervezas Lager",
+            "regularPrice": "4390",
+            "currentPrice": " Precio x Un : 366",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/312223a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Becker",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "3890",
+            "currentPrice": " Precio x L : 11114",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/301415a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Budweiser",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "5990",
+            "currentPrice": " Precio x L : 16873",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/807074a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Heineken",
+            "description": "Pack Cervezas (6 Latas de 350 cc c/u)",
+            "regularPrice": "3990",
+            "currentPrice": " Precio x Un : 665",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/937361a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Stella Artois",
+            "description": "Pack Cerveza Premium Lager",
+            "regularPrice": "4590",
+            "currentPrice": " Precio x Un : 765",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/299185a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Corona",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "11690",
+            "currentPrice": " Precio x Un : 974",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/384442a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Miller ",
+            "description": "Miller 12pack Botella",
+            "regularPrice": "8590",
+            "currentPrice": " Precio x Un : 716",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/944817a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Pack Cerveza Ale Torobayo",
+            "regularPrice": "5790",
+            "currentPrice": " Precio x L : 17545",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/614954a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Austral",
+            "description": "Cerveza Calafate Ale ( 4 Botellas 330cc c/u)",
+            "regularPrice": "5390",
+            "currentPrice": " Precio x L : 16333",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/304289a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Becker",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "3890",
+            "currentPrice": " Precio x Un : 486",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/941564a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Royal Guard",
+            "description": "Pack Cerveza Lager (12 Latas 350cc c/u)",
+            "regularPrice": "8290",
+            "currentPrice": " Precio x L : 23686",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/704136a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mahou",
+            "description": "Mahou Sin Alcohol",
+            "regularPrice": "3350",
+            "currentPrice": " Precio x L : 13400",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/804716a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Dolbek",
+            "description": "Cerveza Artesanal Maqui Botella",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4818",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/769858a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Grolsch",
+            "description": "Pack Cerveza Premium Larger",
+            "regularPrice": "2990",
+            "currentPrice": " Precio x Un : 498",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/289823a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza Sin Alcohol",
+            "regularPrice": "1690",
+            "currentPrice": " Precio x L : 5121",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/288999a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Schofferhofer",
+            "description": "Cerveza de Pomelo Lata",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2380",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/740892a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Lemon Stones",
+            "description": "Pack Cerveza Sabor Limón (6 Latas de 350 cc c/u)",
+            "regularPrice": "4190",
+            "currentPrice": " Precio x Un : 698",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/304171a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kross",
+            "description": "Pack Cerveza Golden Pale Ale",
+            "regularPrice": "3690",
+            "currentPrice": " Precio x L : 11182",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/274744a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mahou",
+            "description": "Sin Alcohol",
+            "regularPrice": "690",
+            "currentPrice": " Precio x L : 2091",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/804712a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Austral",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "4590",
+            "currentPrice": " Precio x L : 13909",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/332800a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Budweiser",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "4990",
+            "currentPrice": " Precio x Un : 832",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/304209a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cristal",
+            "description": "Pack Cerveza Cero Sin Alcohol",
+            "regularPrice": "4490",
+            "currentPrice": " Precio x Un : 748",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/489244a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cusqueña",
+            "description": "Pack Cerveza Golden Lager",
+            "regularPrice": "3690",
+            "currentPrice": " Precio x Un : 923",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/521945a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza Arándano",
+            "regularPrice": "1650",
+            "currentPrice": " Precio x L : 5000",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/445204a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cristal",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "6090",
+            "currentPrice": " Precio x Un : 508",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/312203a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Heineken",
+            "description": "Pack Cervezas Sin Alcohol (6 Botellas 330 cc c/u)",
+            "regularPrice": "5790",
+            "currentPrice": " Precio x Un : 965",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/931875a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Dolbek",
+            "description": "Cerveza Artesanal Ale Botella",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4818",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/769860a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Pack Cerveza Honig Ale Sabor Miel",
+            "regularPrice": "6090",
+            "currentPrice": " Precio x Un : 1523",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/494678a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Damm",
+            "description": "Pack cerveza Estrella Damm botella 330ml",
+            "regularPrice": "3990",
+            "currentPrice": " Precio x Un : 665",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/937889a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Morenita",
+            "description": "Cerveza Negra Sabor Malta Tostada",
+            "regularPrice": "3290",
+            "currentPrice": " Precio x Un : 548",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/576802a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kross",
+            "description": "Cerveza Ale Fuerte",
+            "regularPrice": "3390",
+            "currentPrice": " Precio x L : 4520",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/289357a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Royal Guard",
+            "description": "Pack Cervezas IPA",
+            "regularPrice": "5490",
+            "currentPrice": " Precio x Un : 915",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1001064a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Dolbek",
+            "description": "Cerveza Artesanal Lager Botella",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4818",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/769862a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza Lager sin Filtrar",
+            "regularPrice": "1690",
+            "currentPrice": " Precio x L : 5121",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/276346a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Corona",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "3990",
+            "currentPrice": " Precio x Un : 665",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/831734a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Austral",
+            "description": "Cerveza Ruibarbo Botella",
+            "regularPrice": "1490",
+            "currentPrice": " Precio x L : 4515",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/946483a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Clausthaler",
+            "description": "Cerveza sin Alcohol Classic Lata",
+            "regularPrice": "1290",
+            "currentPrice": " Precio x L : 2580",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/740890a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Clausthaler",
+            "description": "Cerveza sin Alcohol Sabor Limón",
+            "regularPrice": "1450",
+            "currentPrice": " Precio x L : 4394",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/489250a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mahou",
+            "description": "5 Estrellas Sin Gluten",
+            "regularPrice": "7490",
+            "currentPrice": " Precio x Un : 1248",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/878597a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Hoegaarden",
+            "description": "Cerveza Belga de Trigo",
+            "regularPrice": "1250",
+            "currentPrice": " Precio x L : 3788",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/849190a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Budweiser",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "1690",
+            "currentPrice": " Precio x L : 3573",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/829736a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza sin Filtrar Ipa",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4818",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/857055a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Heineken",
+            "description": "Pack Cerveza Premium Lager",
+            "regularPrice": "5290",
+            "currentPrice": " Precio x L : 16030",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/9603a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Austral",
+            "description": "Pack Cerveza Pale Ale",
+            "regularPrice": "5390",
+            "currentPrice": " Precio x L : 16333",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/304273a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kross",
+            "description": "Pack Cerveza Stout",
+            "regularPrice": "5190",
+            "currentPrice": " Precio x L : 15727",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/274758a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Guayacán",
+            "description": "Cerveza India Pale Ale 6,5º",
+            "regularPrice": "1550",
+            "currentPrice": " Precio x L : 4697",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/946481a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Chocolate Naranja Botella",
+            "regularPrice": "1490",
+            "currentPrice": " Precio x L : 4257",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/771572a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Royal Guard",
+            "description": "Pack Cerveza Lager (6 Latas 350cc c/u)",
+            "regularPrice": "3190",
+            "currentPrice": " Precio x Un : 532",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/304423a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Coors",
+            "description": "Six Pack cervezas Coors Original 5º",
+            "regularPrice": "3490",
+            "currentPrice": " Precio x Un : 582",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/997706a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Modelo",
+            "description": "Cerveza Lager",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3662",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/622543a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Estrella Damm",
+            "description": "Cerveza Inedit Damm",
+            "regularPrice": "1390",
+            "currentPrice": " Precio x L : 4212",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/937887a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mahou",
+            "description": "5 estrellas",
+            "regularPrice": "5390",
+            "currentPrice": " Precio x L : 16333",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/877414a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Miller ",
+            "description": "Cerv Miller Sixpack Lata",
+            "regularPrice": "5090",
+            "currentPrice": " Precio x Un : 848",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/292787a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mestra",
+            "description": "Pack Cerveza Cero Alcohol",
+            "regularPrice": "3790",
+            "currentPrice": " Precio x Un : 948",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/624509a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Escudo",
+            "description": "Pack Cervezas Silver (6 Latas de 350 cc c/u)",
+            "regularPrice": "3190",
+            "currentPrice": " Precio x Un : 532",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/893032a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Blue Moon",
+            "description": "Pack Cervezas (4 Botellas 355 cc c/u)",
+            "regularPrice": "4190",
+            "currentPrice": " Precio x Un : 1048",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/944827a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mahou",
+            "description": "Mahou Clásica",
+            "regularPrice": "950",
+            "currentPrice": " Precio x L : 1900",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/716506a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Pack Cerveza Bock",
+            "regularPrice": "5790",
+            "currentPrice": " Precio x Un : 1448",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/269620a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kross",
+            "description": "Kross Maibock",
+            "regularPrice": "3690",
+            "currentPrice": " Precio x L : 11182",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/571229a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Lúcuma Botella",
+            "regularPrice": "1490",
+            "currentPrice": " Precio x L : 4257",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/771570a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza Ale Ámbar",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/285523a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Modelo",
+            "description": "Cerveza Negra",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3662",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/880289a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Damm",
+            "description": "Cerveza Voll Damm Doble Malta 330ml",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/771564a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Quimera",
+            "description": "Cerveza Imperial Stout Botella",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/760136a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza Ale Gran Torobayo",
+            "regularPrice": "2750",
+            "currentPrice": " Precio x L : 5729",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/276334a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Pack Cerveza Lager (6 Botellas 330 cc c/u)",
+            "regularPrice": "5790",
+            "currentPrice": " Precio x L : 17545",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/944831a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza de Trigo Weissbier",
+            "regularPrice": "1750",
+            "currentPrice": " Precio x L : 5303",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/312519a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza Amber Ale Botellón",
+            "regularPrice": "4990",
+            "currentPrice": " Precio x L : 4990",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/884182a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza Torobayo Lata",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 3362",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/946485a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Guayacán",
+            "description": "Cerveza Stout Botella",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4543",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/660781a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Damm",
+            "description": "Pack cerveza Daura Damm Sin Gluten 330ml",
+            "regularPrice": "5350",
+            "currentPrice": " Precio x Un : 1338",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/594877a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Dopple Bock B",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3400",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/479023a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Escudo",
+            "description": "Cervezas Lager",
+            "regularPrice": "3390",
+            "currentPrice": " Precio x Un : 565",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/310123a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Miller ",
+            "description": "Miller Six pack Botella",
+            "regularPrice": "5790",
+            "currentPrice": " Precio x Un : 965",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/274794a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Guayacán",
+            "description": "Cerveza Pale Ale Botella",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4543",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/660779a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Austral",
+            "description": "Pack Cerveza Dark Ale",
+            "regularPrice": "5390",
+            "currentPrice": " Precio x Un : 1348",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/304317a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Imperial",
+            "description": "Cerveza Dunkel",
+            "regularPrice": "1390",
+            "currentPrice": " Precio x L : 4212",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/916298a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kilometro 24.7",
+            "description": "Cerveza Session Ipa",
+            "regularPrice": "3890",
+            "currentPrice": " Precio x Un : 973",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1000537a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cristal",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "2690",
+            "currentPrice": " Precio x Un : 448",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/310085a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Bock Chocolate B",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3400",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/479015a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Premium Lager B",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3400",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/479021a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Becker",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "2950",
+            "currentPrice": " Precio x Un : 492",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/307633a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Clausthaler",
+            "description": "Cerveza sin Alcohol",
+            "regularPrice": "1450",
+            "currentPrice": " Precio x L : 4394",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/489248a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kalnapilis",
+            "description": "Cerveza No Alcoholic Lata",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2380",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/851946a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Alhambra",
+            "description": "Reserva Roja",
+            "regularPrice": "5690",
+            "currentPrice": " Precio x Un : 1423",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/958173a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kilometro 24.7",
+            "description": "Cerveza Amber Lager",
+            "regularPrice": "3890",
+            "currentPrice": " Precio x Un : 973",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1000535a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Strong Lager 6,5°",
+            "regularPrice": "1290",
+            "currentPrice": " Precio x L : 3686",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/905844a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Corona",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "6190",
+            "currentPrice": " Precio x Un : 1032",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/304229a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Szot",
+            "description": "Cerveza Negra Stout",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4676",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/289669a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cusqueña",
+            "description": "Pack Cerveza Red Lager",
+            "regularPrice": "3750",
+            "currentPrice": " Precio x Un : 938",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/694170a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza Lager Porter Stout",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/285541a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza Doppel Bock Botella",
+            "regularPrice": "2850",
+            "currentPrice": " Precio x L : 5700",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/689964a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza IPA",
+            "regularPrice": "1490",
+            "currentPrice": " Precio x L : 4515",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/945437a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Guayacán",
+            "description": "Cerveza Golden Ale Botella",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4543",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/660777a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Miller ",
+            "description": "Miller 12pack Lata",
+            "regularPrice": "9790",
+            "currentPrice": " Precio x Un : 816",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/521953a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mestra",
+            "description": "Cerveza Scotch Ale",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/407531a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza Pale Ale",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/285483a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Quilmes",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "3950",
+            "currentPrice": " Precio x Un : 658",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/307621a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Grolsch",
+            "description": "Six Pack Cerveza (330 cc c/u)",
+            "regularPrice": "5590",
+            "currentPrice": " Precio x Un : 932",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/998666a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cristal",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "4050",
+            "currentPrice": " Precio x Un : 675",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/331150a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Budweiser",
+            "description": "Pack Cerveza Lager",
+            "regularPrice": "4690",
+            "currentPrice": " Precio x Un : 782",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/804232a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Imperial",
+            "description": "Cerveza Lager",
+            "regularPrice": "1490",
+            "currentPrice": " Precio x L : 4515",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/700885a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Quimera",
+            "description": "Cerveza Amber Ale Botella",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/760134a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kross",
+            "description": "Pack Cerveza Pilsner Lager",
+            "regularPrice": "3690",
+            "currentPrice": " Precio x L : 11182",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/274774a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Schofferhofer",
+            "description": "Cerveza Rubia Hefeweizen Lata",
+            "regularPrice": "1290",
+            "currentPrice": " Precio x L : 2580",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/764725a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kunstmann",
+            "description": "Cerveza Lager Original Anwandter Rezept",
+            "regularPrice": "2590",
+            "currentPrice": " Precio x L : 5180",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/321987a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kalnapilis",
+            "description": "Cerveza White Select Lata",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2095",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/851956a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mestra",
+            "description": "Cerveza APA - American Pale Ale",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/998096a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza Strong Ale",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4818",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/936503a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mahou",
+            "description": "Mahou Maestra Dunkel",
+            "regularPrice": "1290",
+            "currentPrice": " Precio x L : 3909",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/979826a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Quimera",
+            "description": "Cerveza Pale Ale Botella",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/760132a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza Robust Porter",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4818",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/936507a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Szot",
+            "description": "Cerveza Rubia al Vapor",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4676",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/292797a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Antillanca",
+            "description": "Cerveza Pale Lager 5°",
+            "regularPrice": "1290",
+            "currentPrice": " Precio x L : 3686",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/905846a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mahou",
+            "description": "Cerveza Negra Especial Botella",
+            "regularPrice": "1290",
+            "currentPrice": " Precio x L : 3909",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/738063a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Stella Artois",
+            "description": "Pack Cerveza Premium Lager",
+            "regularPrice": "6190",
+            "currentPrice": " Precio x Un : 1032",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/949569a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mestra",
+            "description": "Pack Cerveza Stout",
+            "regularPrice": "3790",
+            "currentPrice": " Precio x L : 2871",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/407537a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mestra",
+            "description": "Pack Cerveza Amber Ale",
+            "regularPrice": "3790",
+            "currentPrice": " Precio x Un : 948",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/285829a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mestra",
+            "description": "Pack Cerveza Blonde Ale",
+            "regularPrice": "3790",
+            "currentPrice": " Precio x Un : 948",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/285805a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza Dunkel Weizen",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4818",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/936509a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Del Puerto",
+            "description": "Cerveza Scottish Amber Ale",
+            "regularPrice": "1590",
+            "currentPrice": " Precio x L : 4818",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/936505a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kalnapilis",
+            "description": "Cerveza Pilsener Lata",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2095",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/851952a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kalnapilis",
+            "description": "Cerveza Original Lata",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2095",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/851950a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kalnapilis",
+            "description": "Cerveza 7.30 Lata",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2380",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/851944a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Heineken",
+            "description": "Cerveza Cero Lata",
+            "regularPrice": "890",
+            "currentPrice": " Precio x L : 2543",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1026957a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Leffe",
+            "description": "Botella Cerveza Blonde Blond",
+            "regularPrice": "1090",
+            "currentPrice": " Precio x L : 3303",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/658867a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Van Pur",
+            "description": "Cerveza Botella",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2380",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/771568a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kalnapilis",
+            "description": "Cerveza Grand Select Lata",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2095",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/851948a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kalnapilis",
+            "description": "Cerveza Royal Select Lata",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2095",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/851954a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Quimera",
+            "description": "Cerveza Ipa 5,5° Botella",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1017791a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Alhambra",
+            "description": "Cerveza Premium Lager Botella",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 3606",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/752240a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Van Pur",
+            "description": "Cerveza sin Alcohol Botella",
+            "regularPrice": "1190",
+            "currentPrice": " Precio x L : 2380",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/823576a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Artesanal Doble Malta",
+            "regularPrice": "1450",
+            "currentPrice": " Precio x Kg : 4143",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1024546a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Artesanal Lager sin Filtrar",
+            "regularPrice": "1450",
+            "currentPrice": " Precio x Kg : 4143",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1024544a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Volcanes del Sur",
+            "description": "Cerveza Artesanal Hoppy Ipa",
+            "regularPrice": "1450",
+            "currentPrice": " Precio x Kg : 4143",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1024542a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Mestra",
+            "description": "Cerveza Amber Ale",
+            "regularPrice": "1490",
+            "currentPrice": " Precio x L : 4515",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/269566a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Kwak",
+            "description": "Cerveza Artesanal Pauwel Ale",
+            "regularPrice": "2190",
+            "currentPrice": " Precio x L : 6636",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/336354a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Equate",
+            "description": "Pack Cerveza Roja (6 Latas 354cc c/u)",
+            "regularPrice": "2950",
+            "currentPrice": " Precio x Un : 492",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1046952a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Stella Artois",
+            "description": "Cerveza Stella sin Gluten",
+            "regularPrice": "3790",
+            "currentPrice": " Precio x Un : 632",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1046958a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Maracuya Stones",
+            "description": "Pack Cervezas Maracuyá (6 Latas de 350 cc c/u)",
+            "regularPrice": "4190",
+            "currentPrice": " Precio x Un : 698",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/858986a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Bud Light",
+            "description": "Pack Cervezas (6 Botellas 355cc c/u)",
+            "regularPrice": "5290",
+            "currentPrice": " Precio x Un : 882",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1061163a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Beck's",
+            "description": "Pack Cervezas Lager Alemana (6 Botellas de 330 ml c/u)",
+            "regularPrice": "5290",
+            "currentPrice": " Precio x Un : 882",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/302005a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Cusqueña",
+            "description": "Pack Cerveza Lata 354 cc c/u",
+            "regularPrice": "5490",
+            "currentPrice": " Precio x Un : 458",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1044326a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Becker",
+            "description": "Pack Cerveza Premium Genuine Lager",
+            "regularPrice": "5590",
+            "currentPrice": " Precio x Un : 311",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/409526a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Corona",
+            "description": "Pack Cervezas (10 Latas de 355cc c/u)",
+            "regularPrice": "6390",
+            "currentPrice": " Precio x Un : 639",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1038165a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Stella Artois",
+            "description": "Pack Cerveza Premium Lager (12 Botellas 330 cc c/u)",
+            "regularPrice": "6990",
+            "currentPrice": " Precio x Un : 583",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/970366a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Sol",
+            "description": "Pack Cervezas",
+            "regularPrice": "10890",
+            "currentPrice": " Precio x Un : 908",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/765223a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        },
+        {
+            "name": "Heineken",
+            "description": "Pack Cervezas (24 Latas de 350 cc c/u)",
+            "regularPrice": "11390",
+            "currentPrice": " Precio x Un : 475",
+            "image": "https://images.lider.cl/wmtcl?set=imageSize[medium],imageURL[file:/productos/1018727a.jpg],options[progressive]&call=url[file:catalog/sizing.chain]&sink=format[jpg],options[progressive]"
+        }
+    ]
+}
